@@ -1,0 +1,10 @@
+﻿@*@model IEnumerable<PhoneBookMVC.Models.Person>
+
+    @foreach (var item in Model)
+    {
+        <p>@item.Name @item.Email numer telfonu: @item.Phone.PhoneNumber</p>
+    }*@
+
+@Html.ActionLink("Książka", "Index", "People", "", new { @class = "btn btn-default" })
+@Html.ActionLink("Numery tel", "Index", "Phones", "", new { @class = "btn btn-default" })
+@Html.ActionLink("Wypłaty", "Index", "MoneyForPersons", "", new { @class = "btn btn-default" })

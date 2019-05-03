@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeksery", "Indeksery\Indeksery.csproj", "{446A7DEB-01E7-4A31-AF76-C27D6A60F3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersClasses", "IndexersClasses\IndexersClasses.csproj", "{1FBBB9FC-D72C-4290-BF51-5F4E5EC50083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446A7DEB-01E7-4A31-AF76-C27D6A60F3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446A7DEB-01E7-4A31-AF76-C27D6A60F3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446A7DEB-01E7-4A31-AF76-C27D6A60F3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446A7DEB-01E7-4A31-AF76-C27D6A60F3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBBB9FC-D72C-4290-BF51-5F4E5EC50083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBBB9FC-D72C-4290-BF51-5F4E5EC50083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBBB9FC-D72C-4290-BF51-5F4E5EC50083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBBB9FC-D72C-4290-BF51-5F4E5EC50083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2BA3BA-3A5A-40E3-BE98-6004E56EE7BE}
+	EndGlobalSection
+EndGlobal
